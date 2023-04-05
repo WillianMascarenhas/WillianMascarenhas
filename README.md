@@ -3,7 +3,7 @@
 🌱 Estou estudando no momento assutos ligados ao backend como: Node.js
 
 
-## 🌐 Onde você pode me encontar:
+## 🌐 Onde me encontar:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/willmasca_/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/willian-mascarenhas/) 
 
 ## 💻 Tecnologias aprendidas:
