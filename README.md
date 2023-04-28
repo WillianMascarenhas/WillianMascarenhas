@@ -1,6 +1,6 @@
 # 💫 Sobre mim:
 🙋‍♂️ Olá meu nome é Willian Mascarenhas, sou um programador em desenvolvimento... 
-🌱 Estou estudando no momento assutos ligados ao backend como: Node.js
+🌱 Estou estudando no momento assutos ligados ao backend como: Pyton
 
 
 ## 🌐 Onde me encontar:
