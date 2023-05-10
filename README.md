@@ -1,7 +1,8 @@
 # 💫 Sobre mim:
 🙋‍♂️ Olá meu nome é Willian Mascarenhas, sou um programador em desenvolvimento... 
+👾 Desenvolvedor Front End
 
-🌱 Estou estudando no momento assutos ligados ao backend como: Pyton
+🌱 Estou estudando no momento assutos ligados ao Back End como: Python
 
 
 ## 🌐 Onde me encontrar:
